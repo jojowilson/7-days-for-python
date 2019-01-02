@@ -1,9 +1,10 @@
 # 7-days-for-python
 Python Camp
 
-Task1：
+*Task1：*
 
 学习内容1
+
 1.使用anaconda搭建python的环境（跳过第一章，去网络上搜索anaconda3的教程）
 
 2.完成系统变量的设置，通过在命令行输入python3检验一下python3有没有装成功。
